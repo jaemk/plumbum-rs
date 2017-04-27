@@ -1,0 +1,8 @@
+[package]
+name = "plumbum"
+version = "0.1.0"
+authors = ["James Kominick <james.kominick@gmail.com>"]
+
+[dependencies]
+error-chain = "0.10"
+walkdir = "1"
